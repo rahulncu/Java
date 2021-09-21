@@ -20,9 +20,7 @@ public class comer {
 		
 		int itemstobuy=spend/price;
 		
-		if (itemstobuy>=10) {
-			free=itemstobuy/10;
-		}
+		free=((bought%10)+itemstobuy)/10;
 		
 		bought+=itemstobuy;
 		
