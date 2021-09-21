@@ -1,6 +1,7 @@
 package niit;
 import java.util.*;
 
+//Question no.2
 public class medi {
 	public static void main(String arg[]) {
 		Scanner s=new Scanner(System.in);

@@ -1,6 +1,7 @@
 package niit;
 import java.util.*;
 
+//Question No. 1
 public class comer {
 	public static void main(String arg[]) {
 		int spend, price, bought,free;
